@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-size: 22px;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.gap-20px {
+  gap: 20px;
+}
+
+header {
+  justify-content: space-between;
+  color: #F4F4EF;
+  background-color: #20232A;
+  padding: 20px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+ul {
+  list-style-type: none;
+}
